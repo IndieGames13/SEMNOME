@@ -1,2 +1,2 @@
 # SEMNOME
-Jogo com uma temática em deuses antigos. 
+Temática em deuses antigos. 
